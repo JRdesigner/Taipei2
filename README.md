@@ -103,7 +103,7 @@ body {
 </head>
 <body>
 	<div class="card">
-		<div class="front"><img src="fan-mu-3.jpg"></div>
+		<div class="front"><img src="https://user-images.githubusercontent.com/40727290/42352819-5f49c2e4-80ef-11e8-9595-6d989a7dee3e.jpg"></div>
 		<div class="back">
 			<div class="details">
 				<h2>Tony Tèo<br> <span>Junior Designer</span></h2>
